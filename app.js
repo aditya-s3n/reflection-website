@@ -15,10 +15,6 @@ app.get("/", function(request, response) {
     response.render("main");
 });
 
-app.post("/", function(request, response) {
-    
-});
-
 /**************** Code Examples Page ****************/
 
 /**************** Unknown Page ****************/
